@@ -1,4 +1,4 @@
-package web
+package logger
 
 import (
 	log "github.com/Sirupsen/logrus"
